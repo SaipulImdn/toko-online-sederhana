@@ -1,3 +1,5 @@
+const Product = require('../models/Product')
+
 const Product = require('../models/Product');
 res.json
 const getAllProducts = async (req, res) => {
